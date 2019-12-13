@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/仿真平台.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/仿真平台.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/培训课程.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/培训课程.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告7.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/研究报告8.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/研究报告8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/资料库.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/资料库.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +122,7 @@
       <workItem from="1576073883601" duration="1198000" />
       <workItem from="1576132502846" duration="20601000" />
       <workItem from="1576159931819" duration="1238000" />
-      <workItem from="1576232566640" duration="494000" />
+      <workItem from="1576232566640" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576062424188</created>
@@ -183,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576160040244</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="关于我们">
+      <created>1576233306910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576233306910</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
